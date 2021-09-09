@@ -1,2 +1,3 @@
 # COMPUTER-ORGANIZATION-AND-ARCHITECTURE
-Hi , so this is my repository for all my Computer Circuitry Works. This repository includes logic gate simulator (software), logic circuits, and their workings.
+Hi , So This Is My Repository For All My Computer Circuitry Works.
+This Repository Includes Logic Gate Simulator (software), Logic Circuits, And Their Workings.
